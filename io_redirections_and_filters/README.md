@@ -24,3 +24,4 @@ Shell scripts about I/O redirection and filters.
 - `16-whatsnext`: displays lines containing the pattern "root" and 3 lines after them in the file `/etc/passwd`.
 - `17-hidethisword`: displays all the lines in the file `/etc/passwd` that do not contain the pattern "bin".
 - `18-letteronly`: displays all lines of the file `/etc/ssh/sshd_config` starting with a letter.
+- `19-AZ`: replaces all characters `A` and `c` from input with `Z` and `e` respectively.
