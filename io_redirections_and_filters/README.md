@@ -19,3 +19,4 @@ Shell scripts about I/O redirection and filters.
 - `11-directories`: counts the number of directories and sub-directories in the current directory.
 - `12-newest_files`: displays the 10 newest files in the current directory, one per line, sorted from newest to oldest.
 - `13-unique`: takes a list of words as input and prints only words that appear exactly once, sorted.
+- `14-findthatword`: displays lines containing the pattern "root" from the file `/etc/passwd`.
