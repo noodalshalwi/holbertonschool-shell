@@ -15,3 +15,4 @@ Shell scripts about users, groups and file permissions.
 - `7-everybody`: adds execution permission to the owner, the group owner and the other users, to the file `hello`.
 - `8-James_Bond`: sets the permissions of the file `hello`: no permission for the owner and the group, all permissions for other users.
 - `9-John_Doe`: sets the mode of the file `hello` to `-rwxr-x-wx`.
+- `10-mirror_permissions`: sets the mode of the file `hello` the same as `olleh` mode.
