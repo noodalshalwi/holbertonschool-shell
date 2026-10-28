@@ -13,3 +13,4 @@ Shell scripts about I/O redirection and filters.
 - `6-third_line`: displays the third line of the file `iacta`.
 - `7-file`: creates a file with a special-characters name containing the text `Best School`.
 - `8-cwd_state`: writes the result of `ls -la` into the file `ls_cwd_content`.
+- `9-duplicate_last_line`: duplicates the last line of the file `iacta`.
